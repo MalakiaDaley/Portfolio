@@ -34,3 +34,25 @@ seemed a bit dull like it could of been improved as if it was missing something 
 Image Attached Below
 ```
 <img src="/Images/Portfolio1.png" alt="This is the first Portfolio's skills section what I felt was bit dull">
+
+```
+21/03/2024 13:21 BST
+Research #2
+
+Portfolio #2 With the portfolio's I'm picking them at random to see how they implement other peoples name's into portfolio which
+start with different characters to see how they work with characters and other things this is so I cna understand what's the
+Do's and Don'ts of web development.
+
+In this 2nd portfolio he allows the individual to select a colour theme between dark mode suited and light mode suited web
+site this allows the users own customization of the website so they can read it how they feel comfortable to read it.
+It uses small hover animations which are not gradual but more instant I don't like this for design I'm going to go for
+I'm going to use more gradual transitions which feel more comforting on the eyes.
+
+Also in this case the portfolio uses more sharp font's which feel as if they're targeted at individuals which may
+struggle with reading so it helps words stand out. His title for welcome developer's I feel like isn't my style
+or theme aspect to go for the letter spacing between the comma and other word doesn't feel like something appealing
+to the theme I'm going for.
+
+Image Attached Below
+```
+<img src="/Images/Portofolio2.png" alt="This is the 2nd portfolio.">
