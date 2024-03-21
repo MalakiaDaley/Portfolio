@@ -55,4 +55,4 @@ to the theme I'm going for.
 
 Image Attached Below
 ```
-<img src="/Images/Portofolio2.png" alt="This is the 2nd portfolio.">
+<img src="/Images/Portfolio2.png" alt="This is the 2nd portfolio.">
