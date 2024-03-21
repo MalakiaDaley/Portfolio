@@ -23,3 +23,14 @@ Before starting this project I wanted to determine a theme beforehand to do this
 <br>
 Linked Here<br>
 https://github.com/emmabostian/developer-portfolios
+
+```
+21/03/2024 13:17 BST
+Research
+
+Portfolio #1 this portfolio was able to blend a darkish theme at the start and light theme at the end however in my opinion this
+seemed a bit dull like it could of been improved as if it was missing something key but I just couldn't quite understand what it was 
+
+Image Attached Below
+```
+<img src="/images/Portfolio1.PNG">
