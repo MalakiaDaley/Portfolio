@@ -15,6 +15,6 @@ The purpose of this portfolio is to serve as informer to the reader to show them
 </ul>
 
 <h1>Specifications</h1>
-Server Hoster: Github
+Server Hoster: Github\n
 External Hoster: Heroku
 
