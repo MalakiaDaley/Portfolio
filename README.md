@@ -57,3 +57,19 @@ to the theme I'm going for.
 Image Attached Below
 ```
 <img src="/Images/Portfolio2.png" alt="This is the 2nd portfolio.">
+
+```
+21/03/2024 13:52 BST
+Research #3
+
+This portfolio was in league of it's own with design it matched in animations, smooth effects and other aspects
+in addition to this the layout of elements was neat and not cluttered. The design was amazing it had nice hover animations to
+follow the mouse in certain areas this was also able to blend colours perfectly.
+
+The fonts was huge for titles while also remaining clear and nice to read it kept the topbar from being cluttered
+spreading the elements side-to-side. It also show's timeline of work the author has done without too big boxes or
+overly big text it matches a nice font style. Using the sans-serif font family.
+
+Image Attached Below
+```
+<img src="/Images/Portfolio3.png" alt="This is the 3rd Portfolio">
