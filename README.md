@@ -33,4 +33,4 @@ seemed a bit dull like it could of been improved as if it was missing something 
 
 Image Attached Below
 ```
-<img src="/Images/Portfolio1.PNG" alt="This is the first Portfolio's skills section what I felt was bit dull" width=500 height=500>
+<img src="/Images/Portfolio1.png" alt="This is the first Portfolio's skills section what I felt was bit dull" width=500 height=500>
