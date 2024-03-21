@@ -70,6 +70,8 @@ The fonts was huge for titles while also remaining clear and nice to read it kep
 spreading the elements side-to-side. It also show's timeline of work the author has done without too big boxes or
 overly big text it matches a nice font style. Using the sans-serif font family.
 
+However A.I has been used in this portfolio.
+
 Image Attached Below
 ```
 <img src="/Images/Portfolio3.png" alt="This is the 3rd Portfolio">
