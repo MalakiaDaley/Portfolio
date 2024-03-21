@@ -18,3 +18,8 @@ The purpose of this portfolio is to serve as informer to the reader to show them
 Server Hoster: Github<br>
 External Hoster: Heroku
 
+<h1>Researching Themes</h1>
+Before starting this project I wanted to determine a theme beforehand to do this I have to do research on how other portfolio's colour theme's go about things as a darkish colour scheme is nice but at same time blending colours won't look as nice in addition to this going for darker colour limits things we can use depending on how it's approached to do this there's collection of portfolio's on a Github repository.
+
+Linked Here
+https://github.com/emmabostian/developer-portfolios
