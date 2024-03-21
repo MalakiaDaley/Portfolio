@@ -75,3 +75,9 @@ However A.I has been used in this portfolio.
 Image Attached Below
 ```
 <img src="/Images/Portfolio3.png" alt="This is the 3rd Portfolio">
+
+<h1>My Target Theme</h1>
+
+The target theme I'm going to go for is black mixed with white for Foreground colours and for background colours I'll go black.
+For other colours such as frame type windows I'll go for a dark blue scifi colour. The font I'll go for is a sharp font a
+sans-serif font.
