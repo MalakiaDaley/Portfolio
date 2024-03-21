@@ -14,3 +14,7 @@ The purpose of this portfolio is to serve as informer to the reader to show them
   <li>Improve my logging skills</li>
 </ul>
 
+<h1>Specifications</h1>
+Server Hoster: Github
+External Hoster: Heroku
+
