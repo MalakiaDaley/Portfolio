@@ -81,3 +81,26 @@ Image Attached Below
 The target theme I'm going to go for is black mixed with white for Foreground colours and for background colours I'll go black.
 For other colours such as frame type windows I'll go for a dark blue scifi colour. The font I'll go for is a sharp font a
 sans-serif font.
+
+<h1>Timeline</h1>
+
+```
+21/03/2024 14:15 BST
+The Start
+
+The start of the making starts now based of my past repo I decided I needed to plan more into things before dashing into
+things this is especially important when doing web development as roughing things
+can lead to an improper design to a substansial level so I'll plan out the design before putting
+it into production.
+
+```
+
+```
+21/03/2024 13:!7 BST
+Planning
+
+My way of planning as I'm not good at art I'll make a seperate backup site local
+on computer the files will also be attached this will be used as my planning my
+experimentations on the site etc other things to fully understand best way to
+approach it and be ready to dive straight into this.
+```
